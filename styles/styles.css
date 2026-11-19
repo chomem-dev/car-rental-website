@@ -10,10 +10,6 @@ main {
   flex: 1;
 }
 
-h1 {
-  color: blue;
-}
-
 #navcolour,
 #footer-bg-colour {
   background-color: #085234;
