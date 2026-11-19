@@ -1,0 +1,29 @@
+body {
+  height: 100%;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+h1 {
+  color: blue;
+}
+
+#navcolour,
+#footer-bg-colour {
+  background-color: #085234;
+}
+
+.pagecolour,
+.footercolour {
+  color: #f5c518;
+}
+
+.pagecolour:hover {
+  color: #997b0f;
+}
